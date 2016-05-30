@@ -2,6 +2,7 @@
     display: inline-block;
     background-color: #FF8F15;
     border: none;
+    border-radius: 5px;
     padding: 0;
     color: #000;
     text-decoration: none;
